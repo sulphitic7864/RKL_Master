@@ -4,7 +4,7 @@
     "slug": "RKL",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
