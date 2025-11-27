@@ -6,7 +6,7 @@ Lukas Rutkauskas (RKL Media Manager)
 
 Introduction:
 Regional Basketball League (RKL) is the third strongest basketball league in Lithuania. Since
-Remigijus Kuodis has become the director of the league in 2022, 
+Remigijus Kuodis has become the director of the league in 2022, the 
 increasingly growing in popularity due to their innovations and marketing.
 Client:
 
