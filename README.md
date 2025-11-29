@@ -2,7 +2,7 @@ Creation Of The Regional Basketball League (RKL) Mobile Application
 
 Team:
 Eitvidas Šemežys (Fontys ICT Student)
-Lukas Rutkauskas (
+Lukas Rutkauskas (RKL 
 
 Introduction:
 Regional Basketball League (RKL) is the third strongest basketball league in Lithuania. Since
